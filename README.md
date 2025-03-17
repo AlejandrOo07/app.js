@@ -1,1 +1,1 @@
-console.log(¨Ejecutando el sistema¨)
+<h1>Sistema de Registro</h1>
